@@ -1,0 +1,23 @@
+{
+  "name": "test_practics",
+  "version": "1.0.0",
+  "description": "- Jest is a Javascript Testing framework built by Facebook.\r - In this exercise, I wrote a few practical tests for JavaScript functions using the Jest library.\r - I followed the AAA pattern to make the tests easier for other developers to read and understand. And also I used TDD approach in practice.",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abenezer-addisu/Test_practics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abenezer-addisu/Test_practics/issues"
+  },
+  "homepage": "https://github.com/abenezer-addisu/Test_practics#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
